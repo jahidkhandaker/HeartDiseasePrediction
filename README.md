@@ -1,3 +1,3 @@
-# cse465
+# CSE465
 
 Heart Disease Prediction
